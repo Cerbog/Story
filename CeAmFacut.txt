@@ -1,0 +1,9 @@
+-o data avute fisierele, "$git init"
+- $git status
+- $git add --fisierul.extensie--
+- $git status
+- $git commit -m "Descrierea la prezent foarte clara cu modificarile
+  fata de versiunile precedente"
+- daca nu esti logat, $git config user.email "cervestefan@gmail.com"
+  si $git config user.name "Bogdan Cerveneak"
+- sa vezi ce ai facut: $git log
